@@ -19,4 +19,4 @@ Texte en **gras**,
  Ceci est un bloc de code
  ```
 
- Pour finir, un lien https://github.com/ambalde
+ Pour finir, un [lien](https://github.com/ambalde)
