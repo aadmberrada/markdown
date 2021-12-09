@@ -19,4 +19,4 @@ Texte en **gras**,
  Ceci est un bloc de code
  ```
 
- Pour finir, un lien https://forums.fast.ai/t/multiple-observations-per-subject-rnn-lstm-data-formatting/45138
+ Pour finir, un lien https://github.com/ambalde
